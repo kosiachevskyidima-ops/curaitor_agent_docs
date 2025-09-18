@@ -1,17 +1,11 @@
-Welcome to Lumache's documentation!
+# Welcome to Curaitor Agent's documentation!  
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Curaitor Agent** is an **AI-powered tool** for scientific data enthusiasts and researchers.  
+It helps extract, organize, and process **scientific data** with ease.  
+The project includes a **web interface** for running the agent and an integrated **Model Context Protocol (MCP) inspector** to test tools and server connections.  
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
+Check out the :doc:`usage` section for further information, including how to :ref:`installation` the project.  
 
 Contents
 --------
@@ -19,4 +13,5 @@ Contents
 .. toctree::
 
    usage
-   api
+   installation
+   code of conduct
