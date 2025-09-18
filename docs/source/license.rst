@@ -1,5 +1,5 @@
 MIT License
-===
+=====
 
 Copyright (c) 2025 RITESH KUMAR
 
