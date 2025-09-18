@@ -14,4 +14,4 @@ Contents
 
    overview
    installation
-   code of conduct
+   MIT licence
