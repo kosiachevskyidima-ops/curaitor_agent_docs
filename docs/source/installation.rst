@@ -8,39 +8,33 @@ Quick Start
 ----------------
 
 # Install uv
-  ```bash
 curl -LsSf https://astral.sh/uv/install.sh | sh
-  ```
+  
 
 # Clone repo
-  ```bash
 git clone <your-repo-url>
 cd curaitor-agent
-  ```
+  
 
 # Initialize project
-  ```bash
 uv init
 uv add -r requirements.txt
-  ```
+  
 
 # Run web interface
-  ```bash
 uv run adk web
-  ```
+  
 
 Dependency Management
 ----------------
 
 - Sync when `requirements.txt` is updated:  
-  ```bash
   uv sync
-  ```
+  
 
-- Add a new package:  
-  ```bash
+- Add a new package:
   uv add package-name
-  ```
+  
   *(Don’t forget to update `requirements.txt`!)*
 
 
@@ -56,26 +50,22 @@ The **MCP Inspector** helps verify your MCP server connection and test available
 ### Setup  
 
 1. Install **nvm**:  
-   ```bash
-   curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.3/install.sh | bash
+   curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.3/install.sh | 
    \. "$HOME/.nvm/nvm.sh"
-   ```
+   
 
 2. Install **Node.js v22**:  
-   ```bash
    nvm install 22
-   ```
+   
 
 3. Verify versions:  
-   ```bash
    node -v   # v22.19.0
    npm -v    # 10.9.3
-   ```
+   
 
 4. Run the MCP Inspector:  
-   ```bash
    npx @modelcontextprotocol/inspector uv run tools/mcp_server.py
-   ```
+   
 
 5. In the MCP Inspector UI, click **Connect** → test tools.
 
