@@ -9,3 +9,5 @@ Curaitor Agent is an **AI-powered tool** designed to extract, organize, and proc
 It provides:  
 - A **web interface** for running the agent.  
 - **Model Context Protocol (MCP) inspector** integration to test tools and server connections.
+
+Check out the Installation section for further information, including how to Quick Start the project.
