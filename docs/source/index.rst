@@ -12,6 +12,6 @@ Contents
 
 .. toctree::
 
-   usage
+   overview
    installation
    code of conduct
