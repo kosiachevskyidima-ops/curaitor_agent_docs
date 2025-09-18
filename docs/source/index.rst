@@ -14,4 +14,4 @@ Contents
 
    overview
    installation
-   MIT licence
+   license
