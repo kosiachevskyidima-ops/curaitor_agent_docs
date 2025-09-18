@@ -1,3 +1,5 @@
+Overview
+=====
 # Curaitor Agent  
 **AI agent for scientific data extraction**  
 Part of Schmidt OxRSE Workshop (Sep 11–20, 2025)  
