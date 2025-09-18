@@ -5,7 +5,7 @@
 It helps extract, organize, and process **scientific data** with ease.  
 The project includes a **web interface** for running the agent and an integrated **Model Context Protocol (MCP) inspector** to test tools and server connections.  
 
-Check out the :doc:`usage` section for further information, including how to :ref:`installation` the project.  
+Check out the :doc:`overview` section for further information, including how to :ref:`installation` the project.  
 
 Contents
 --------
